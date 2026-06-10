@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno (¡nunca subir esto a GitHub!)
+.env
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
